@@ -1,0 +1,18 @@
+{
+  "name": "magpie-kimi-cli-login",
+  "version": "1.1.0",
+  "type": "module",
+  "main": "./index.js",
+  "description": "Use local Kimi Code CLI logins as one Magpie model provider, with separate account quotas.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huige233/magpie-kimi-cli-login.git"
+  },
+  "homepage": "https://github.com/huige233/magpie-kimi-cli-login#readme",
+  "bugs": "https://github.com/huige233/magpie-kimi-cli-login/issues",
+  "license": "MIT",
+  "keywords": ["magpie-plugin", "opencode-plugin", "kimi-code", "oauth"],
+  "magpie": {
+    "name": "Kimi Code CLI 登录"
+  }
+}
